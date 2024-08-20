@@ -3,7 +3,7 @@ Hello, I am Piyush, an industrial engineer in the making and an aspiring data sc
 - I’m currently learning about investemnts & financing and how to use alogrithms for trading (stocks, commodities etc.).
 - My other areas of interests include operations research, optimization and econometrics. 
 - My upcoming projects:
-  - Algo Trading: Developing quantitative strategies for trading gold based on the Iranian gold price dataset.
+  - Algo Trading: Developing quantitative strategies for trading gold based on an Iranian gold price dataset.
   - Customer Churn: Building a machine learning model to predict customer churn for a satellite navigation app.
 
 Keep visting for new updates :) 
