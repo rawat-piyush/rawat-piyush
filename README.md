@@ -1,5 +1,5 @@
 Hello, I am Piyush, an industrial engineer in the making and an aspiring data scientist. 
-- I’m interested in predictive analytics and the use of ANNs and how to incorporate this in sports betting or sports in general (ex: scouting for a football player).
+- I’m interested technical and tactical analysis in football through data science.  
 - I’m currently learning about investements & financing and how to use alogrithms for trading (stocks, commodities etc.).
 - My other areas of interests include operations research, optimization and econometrics. 
 - My upcoming projects:
